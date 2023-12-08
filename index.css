@@ -1,0 +1,17 @@
+body {
+  margin: 0px;
+}
+div {
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.gallery-item {
+  width: calc((100% - 48px) / 3);
+}
